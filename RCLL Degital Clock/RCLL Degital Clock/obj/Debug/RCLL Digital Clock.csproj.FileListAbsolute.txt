@@ -1,0 +1,14 @@
+c:\users\salsh\documents\visual studio 2015\Projects\RCLL Degital Clock\RCLL Degital Clock\bin\Debug\RCLL Degital Clock.exe.config
+c:\users\salsh\documents\visual studio 2015\Projects\RCLL Degital Clock\RCLL Degital Clock\bin\Debug\RCLL Degital Clock.exe
+c:\users\salsh\documents\visual studio 2015\Projects\RCLL Degital Clock\RCLL Degital Clock\bin\Debug\RCLL Degital Clock.pdb
+c:\users\salsh\documents\visual studio 2015\Projects\RCLL Degital Clock\RCLL Degital Clock\bin\Debug\DevComponents.DotNetBar2.dll
+c:\users\salsh\documents\visual studio 2015\Projects\RCLL Degital Clock\RCLL Degital Clock\bin\Debug\DevComponents.DotNetBar2.xml
+c:\users\salsh\documents\visual studio 2015\Projects\RCLL Degital Clock\RCLL Degital Clock\obj\Debug\RCLL Digital Clock.csprojResolveAssemblyReference.cache
+c:\users\salsh\documents\visual studio 2015\Projects\RCLL Degital Clock\RCLL Degital Clock\obj\Debug\RCLL_Degital_Clock.Analog_Clock.resources
+c:\users\salsh\documents\visual studio 2015\Projects\RCLL Degital Clock\RCLL Degital Clock\obj\Debug\RCLL_Degital_Clock.Main.resources
+c:\users\salsh\documents\visual studio 2015\Projects\RCLL Degital Clock\RCLL Degital Clock\obj\Debug\RCLL_Degital_Clock.Properties.Resources.resources
+c:\users\salsh\documents\visual studio 2015\Projects\RCLL Degital Clock\RCLL Degital Clock\obj\Debug\RCLL Digital Clock.csproj.GenerateResource.Cache
+c:\users\salsh\documents\visual studio 2015\Projects\RCLL Degital Clock\RCLL Degital Clock\obj\Debug\RCLL Degital Clock.exe
+c:\users\salsh\documents\visual studio 2015\Projects\RCLL Degital Clock\RCLL Degital Clock\obj\Debug\RCLL Degital Clock.pdb
+c:\users\salsh\documents\visual studio 2015\Projects\RCLL Degital Clock\RCLL Degital Clock\obj\Debug\RCLL_Degital_Clock.Analog_Clock2.resources
+c:\users\salsh\documents\visual studio 2015\Projects\RCLL Degital Clock\RCLL Degital Clock\obj\Debug\RCLL_Degital_Clock.MainAR.resources
